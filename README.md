@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TalentPool
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
@@ -29,4 +28,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # Talent-Pool
 This is the Talent Pool Project for Angular
->>>>>>> 59d09839abb74a3ca84f6c865baa704c946be6d5
